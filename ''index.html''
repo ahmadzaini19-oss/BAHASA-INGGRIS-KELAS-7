@@ -1,0 +1,26 @@
+[PERSONA]
+Bertindaklah sebagai Ahli Pengembang Media Pembelajaran Digital dan Pengembang Web Front-End senior yang berpengalaman dalam merancang kuis/media interaktif yang responsif untuk siswa SMP.
+
+[KONTEKS]
+Saya adalah guru Bahasa Inggris kelas 7 SMP. Saya akan mengajar materi "Culinary and Me" (Sesuai Capaian Pembelajaran: Peserta didik memahami materi Culinary and Me). Siswa akan menggunakan media ini baik melalui smartphone (Android/iOS) maupun laptop. Media harus menarik, intuitif, ramah anak, dan ringan diproses.
+
+[TUGAS]
+Buatkan satu file tunggal HTML yang sudah mencakup CSS dan JavaScript (Single File HTML) untuk media pembelajaran interaktif Bahasa Inggris tentang "Culinary and Me".
+
+Media interaktif ini harus mencakup:
+1. Halaman Pembuka / Header: Judul "Culinary and Me - Interactive Learning", kolom input nama siswa, dan tombol "Start".
+2. Ringkasan Materi Ringkas & Visual:
+   - Types of Food & Drinks (Favorite meals, snacks, beverages).
+   - Flavors & Textures (Sweet, salty, sour, spicy, crunchy, soft).
+   - Simple Cooking Verbs (Chop, mix, boil, fry, bake).
+3. Modul Kuis Interaktif (minimal 5 soal):
+   - Soal kosa kata (Vocabulary matching / Multiple choice).
+   - Soal melengkapi kalimat sederhana tentang makanan favorit.
+   - Fitur skor otomatis saat selesai dikerjakan.
+   - Umpan balik langsung (Direct Feedback) saat memilih jawaban (benar/salah).
+
+[FORMAT]
+Berikan output berupa kode tunggal HTML (termasuk tag <style> untuk CSS dan <script> untuk JavaScript) dengan ketentuan:
+- Menggunakan pendekatan Responsive Web Design (media queries) agar tampilan otomatis menyesuaikan layar HP maupun Laptop.
+- Desain UI/UX yang modern, berwarna cerah (child-friendly), dengan tombol yang cukup besar untuk disentuh di HP.
+- Berikan komentar pada kode (code comments) untuk menjelaskan cara menyimpannya atau menyesuaikan pertanyaan di kemudian hari.
